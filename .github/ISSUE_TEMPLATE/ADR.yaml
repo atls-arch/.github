@@ -1,5 +1,6 @@
 name: ADR
 description: Architecture Decision Record
+type: ADR
 labels: ['ADR']
 assignees:
   - TorinAsakura
