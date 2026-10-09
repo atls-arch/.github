@@ -1,7 +1,6 @@
 name: ADD
 description: Architecture Definition Document
 type: ADD
-labels: ['ADD']
 assignees:
   - TorinAsakura
 body:
